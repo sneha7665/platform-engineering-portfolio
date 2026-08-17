@@ -195,6 +195,7 @@ Software Catalog	Centralized registry for service discovery
 GitOps	Declarative templates stored in Git, version controlled
 Shift-Left Security	Vulnerability scanning in CI from day one
 Infrastructure as Code	K8s manifests and CI/CD defined declaratively
+
 🔮 Future Enhancements
 [ ] ArgoCD Integration — True GitOps: push code → auto-deploy to K8s
 [ ] Prometheus + Grafana — Auto-generated monitoring dashboards per service
